@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.Chuuf_Master/Chuuf_Master)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Chuuf_Master)
 <img src="https://github-profile-trophy.vercel.app/?username=ChuufMaster&theme=juicyfresh&no-bg=true" />
 <!--
 **ChuufMaster/ChuufMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
