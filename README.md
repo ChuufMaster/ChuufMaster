@@ -1,6 +1,6 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Chuuf_Master?ext=heatmap) <!--https://github.com/JacobLinCool/LeetCode-Stats-Card-->
 <img src="https://github-profile-trophy.vercel.app/?username=ChuufMaster&no-bg=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChuufMaster&show_icons=true&locale=en&layout=compact" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChuufMaster&show_icons=true&locale=en" alt="ovi" />
 <!--
 **ChuufMaster/ChuufMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
