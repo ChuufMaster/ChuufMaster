@@ -4,16 +4,16 @@
 
 <table style="border: 0;">
   <tr>
-    <td style="vertical-align: middle;"><img src="https://github-readme-stats.vercel.app/api?username=ChuufMaster&tshow_icons=true&hide_border=true" alt="GitHub stats"></td>
-    <td style="vertical-align: middle;"><img src="https://streak-stats.demolab.com/?user=ChuufMaster" alt="GitHub streak stats"></td>
+    <td style="vertical-align: middle;"><img src="https://github-readme-stats.vercel.app/api?username=ChuufMaster&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats"></td>
+    <td style="vertical-align: middle;"><img src="https://streak-stats.demolab.com/?user=ChuufMaster&hide_border=true&theme=tokyonight" alt="GitHub streak stats"></td>
   </tr>
   <tr>
-    <td style="vertical-align: middle;"><img src="https://github-profile-trophy.vercel.app/?username=ChuufMaster&row=2&column=4" alt="trophy"></td>
-    <td style="vertical-align: middle;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChuufMaster&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Top Langs"></td>
+    <td style="vertical-align: middle;"><img src="https://github-profile-trophy.vercel.app/?username=ChuufMaster&row=2&column=4&margin-w=5&margin-h=5&no-frame=true&theme=tokyonight" alt="trophy"></td>
+    <td style="vertical-align: middle;"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChuufMaster&exclude_repo=github-readme-stats&show_icons=true&hide_border=true&theme=tokyonight" alt="waka-time"></td>
   </tr>
   <tr>
-    <td style="vertical-align: middle;"><img src="https://leetcard.jacoblin.cool/Chuuf_Master?ext=heatmap&theme=light" alt="Leetcode Stats"></td>
-    <td style="vertical-align: middle;"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChuufMaster&exclude_repo=github-readme-stats&show_icons=true" alt="spotify-github-profile"></td>
+    <td style="vertical-align: middle;"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChuufMaster&repo=markdown-toc&hide_border=true&theme=tokyonight" alt="markdown-toc"></td>
+    <td style="vertical-align: middle;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChuufMaster&theme=tokyonight&hide_border=true&show_icons=true&layout=compact" alt="Top Langs"></td>
   </tr>
 </table>
 
