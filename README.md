@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td style="vertical-align: middle;"><img src="https://leetcard.jacoblin.cool/Chuuf_Master?ext=heatmap&theme=light" alt="Leetcode Stats"></td>
-    <td style="vertical-align: middle;"><img src="https://spotify-github-profile.vercel.app/api/view?uid=luewgxa0sut4xddwa883mapav&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="spotify-github-profile"></td>
+    <td style="vertical-align: middle;"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChuufMaster&exclude_repo=github-readme-stats&show_icons=true" alt="spotify-github-profile"></td>
   </tr>
 </table>
 
