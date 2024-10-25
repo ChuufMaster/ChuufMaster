@@ -12,9 +12,9 @@
 </div>
     <a  ><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChuufMaster&theme=tokyonight&show_icons=true&hide_border=true" height='200' alt="GitHub stats"></a>
     <a ><img align="center" src="https://streak-stats.demolab.com/?user=ChuufMaster&hide_border=true&theme=tokyonight" height='200' alt="GitHub streak stats"></a>
-    <a ><img align="center" src="https://github-profile-trophy.vercel.app/?username=ChuufMaster&column=4&margin-w=5&margin-h=5&no-frame=true&theme=tokyonight&rank=-?" width="50%" alt="trophy"></a>
+    <a ><img align="center" src="https://github-profile-trophy.vercel.app/?username=ChuufMaster&column=4&margin-w=5&margin-h=5&no-frame=true&theme=tokyonight&rank=-?" width="40%" alt="trophy"></a>
     <a >
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChuufMaster&show_icons=true&hide_border=true&theme=tokyonight&layout=compact" width="50%" alt="waka-time">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChuufMaster&show_icons=true&hide_border=true&theme=tokyonight&layout=compact" width="40%" alt="waka-time">
     </a>
 <!--     <a align="center">
       <p>
